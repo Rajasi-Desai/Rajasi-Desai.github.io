@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Rajasi Desai Resume"
-permalink: /cv/
+permalink: /resume/
 author_profile: true
 redirect_from:
-  - /resume
+  - /cv
 ---
 
 {% include base_path %}
@@ -52,73 +52,71 @@ Education
 
 ### University of Massachusetts Amherst (Aug 2019 - May 2023)
 
-#### Degrees
+**Degrees**
 
 - Bachelor of Science in Computer Science
 - Bachelor of Science in Psychology
 - Minor in Mathematics
 
-#### Details
+**Details**
 
-Relevant coursework:
+<u>Relevant coursework: </u>
 
 Programming with Data Structures; Programming Methodology; Introduction to Computation; Computer System Principles; Reasoning Under Uncertainty; Linear Algebra; Calculus III, Data Structures, Algorithms, Web Programming, Artificial Intelligence, Human-Computer Interaction, UX Research, Applied Numerical Optimization, Computer Systems, Discrete Math, Statistics, Intro to Neuroscience, Data Analysis in R
 
-Honors:
+<u> Honors: </u>
 
 - Dean’s List all 8 semesters
 - Graduated with Distinction Magna Cum Laude
 
-Skills
+Languages & Technologies
 ===
 
-- Skill 1
-- Skill 2
-  - Sub-skill 2.1
-  - Sub-skill 2.2
-  - Sub-skill 2.3
-- Skill 3
+- Languages: 
+  - Java, Python, JavaScript, SQL, C++, C, R, HTML/CSS
+- Databases: 
+  - DB2, SQL, PL/SQL, MongoDB
+- Frameworks & Libraries: 
+  - React.js, React Native, JSP, Hibernate, JDBC
+- Cloud & APIs: 
+  - AWS, Firebase, Google Maps/Places APIs, VOSK API
+- Tools: 
+  - Git, GitHub, Jira, Tableau, Postman, Eclipse, Visual Studio, MATLAB, PsychoPy
 
 Technical Projects
 ===
+Check out [Project](https://rajasi-desai.github.io/projects/) tab for more details and demo about the projects.
 
-PaperPal - Research paper recommendation tool
-• Developed a chrome extension research paper recommendation tool which recommends you research papers based on saved
+### PaperPal - Research paper recommendation tool
+- Developed a chrome extension research paper recommendation tool which recommends you research papers based on saved
 papers.
-• Implemented features like generating recommendations based on saved papers, details for each paper, filtering capabilities, and
+- Implemented features like generating recommendations based on saved papers, details for each paper, filtering capabilities, and
 sorting using React for the frontend.
-Kloseted Supply - Web Inventory Tracker for UMass Amherst Student Care Supply Closets
-• Developed an inventory management website.
-• Implemented RESTful APIs, MongoDB, and an interactive location map using JavaScript/HTML/CSS and deployed on Heroku.
-Speech Diarization
-• Prototyped a Python speech diarization model to transcribe investigative interviews and identify/segment speakers, utilizing VOSK
-API for speech-to-text processing.
-Epicer - Ingredient Recognition & Recipe App
-• Won Best Venture Pitch at HackUMass VIII by developing a React, JavaScript, and Python application using image recognition to
-identify ingredients and recommend recipes.
-HAV.it - Community Welfare App
-• Developed an Android application in Java enabling users to request and share items with nearby users using location-based
-services.
-• Integrated Firebase, Google Maps, and Places APIs for user data and location functionality.
 
-# Publications
+### Kloseted Supply - Web Inventory Tracker for UMass Amherst Student Care Supply Closets
+- Developed an inventory management website.
+- Implemented RESTful APIs, MongoDB, and an interactive location map using JavaScript/HTML/CSS and deployed on Heroku.
 
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+### Speech Diarization
+- Prototyped a Python speech diarization model to transcribe investigative interviews and identify/segment speakers, utilizing VOSK API for speech-to-text processing.
+
+### Epicer - Ingredient Recognition & Recipe App
+- Won Best Venture Pitch at HackUMass VIII by developing a React, JavaScript, and Python application using image recognition to identify ingredients and recommend recipes.
+
+### HAV.it - Community Welfare App
+- Developed an Android application in Java enabling users to request and share items with nearby users using location-based services.
+- Integrated Firebase, Google Maps, and Places APIs for user data and location functionality.
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+Additional experience, awards and certifications
 ======
-* Currently signed in to 43 different slack teams
+- Treasurer, Women in Computer Science and Informatics
+- Best Venture Pitch — HackUMass VIII, 2020
+- Best Hack Using Google API — Hack(H)er 413, 2020
+- 2nd Place, Social Networking Website — Hack(H)er 413, 2021
+- Getting Started with AWS ML Certification
