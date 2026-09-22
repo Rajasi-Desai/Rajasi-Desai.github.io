@@ -4,6 +4,8 @@ excerpt: "PaperPal is a research paper recommendation tool which recommends you 
 collection: projects
 ---
 
+<!-- Challenges, scope contribution, pictures/screenshots-->
+
 <img src='/images/projects/PaperPal.png'>
 
 ## App info
