@@ -1,12 +1,12 @@
 ---
 title: "HAV.it"
-excerpt: "An app that can be used for community welfare.<br/><img src='/images/projects/HAVit/HAVit_logo.png'>"
+excerpt: "An app that can be used for community welfare.<br/><img src='/images/projects/HAVit/HAVit_logo.png' width='300'>"
 collection: projects
 ---
 
 <!-- TODO Challenges, scope contribution, pictures/screenshots-->
 
-![PaperPal Logo](/images/projects/HAVit/HAVit_logo.png)
+<img src="/images/projects/HAVit/HAVit_logo.png" alt="HAV.it Logo" width="300">
 
 ## App info
 

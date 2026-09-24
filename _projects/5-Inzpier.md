@@ -1,12 +1,12 @@
 ---
 title: "Inzpire"
-excerpt: "Running out of hackathon ideas? Wanna build a startup but don't know where to start? Need some inspiration? Introducing Inzpire - all-in-one social platform to find inspiration and opportunities. Inspire. Investigate. Innovate. <br/><img src='/images/projects/Inzpier/Inzpire_logo.png'>"
+excerpt: "Running out of hackathon ideas? Wanna build a startup but don't know where to start? Need some inspiration? Introducing Inzpire - all-in-one social platform to find inspiration and opportunities. Inspire. Investigate. Innovate. <br/><img src='/images/projects/Inzpier/Inzpire_logo.png' width='300'>"
 collection: projects
 ---
 
 <!-- TODO Challenges, scope contribution, pictures/screenshots-->
 
-![Inzpire Logo](/images/projects/Inzpier/Inzpire_logo.png)
+<img src="/images/projects/Inzpier/Inzpire_logo.png" alt="Inzspire Logo" width="200">
 
 ## Description as a Tweet:
 

@@ -1,12 +1,12 @@
 ---
 title: "Shows Tracker"
-excerpt: "Shows tracker that keeps tracks of all the shows I have watched and review.<br/><img src='/images/projects/Shows-Tracker/Shows-Tracker_popularTV.png'>"
+excerpt: "Shows tracker that keeps tracks of all the shows I have watched and review.<br/><img src='/images/projects/Shows-Tracker/Shows-Tracker_popularTV.png' width='500'>"
 collection: projects
 ---
 
 <!-- TODO Challenges, scope contribution, pictures/screenshots-->
 
-![Shows tracker image](/images/projects/Shows-Tracker/Shows-Tracker_popularTV.png)
+<!-- ![Shows tracker image](/images/projects/Shows-Tracker/Shows-Tracker_popularTV.png) -->
 
 ## App info
 

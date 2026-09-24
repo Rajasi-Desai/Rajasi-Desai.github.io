@@ -1,12 +1,12 @@
 ---
 title: "Epicer"
-excerpt: "Hungry? Want to eat home-cooked meals to eat healthier? Have various kinds of groceries in the fridge but don't know what to make? Wait no more! Use épicer to get some epic(er) recipes with whatever is available to you!<br/><img src='/images/projects/Epicer/Epicer_Logo.png'>"
+excerpt: "Hungry? Want to eat home-cooked meals to eat healthier? Have various kinds of groceries in the fridge but don't know what to make? Wait no more! Use épicer to get some epic(er) recipes with whatever is available to you!<br/><img src='/images/projects/Epicer/Epicer_Logo.png' width='300'>"
 collection: projects
 ---
 
 <!-- TODO Challenges, scope contribution, pictures/screenshots-->
 
-![Epicer Logo](/images/projects/Epicer/Epicer_Logo.png)
+<img src="/images/projects/Epicer/Epicer_Logo.png" alt="Epicer Logo" width="300">
 
 **Winner of Best Venture Pitch at HackUMass VIII**
 
@@ -67,7 +67,7 @@ The following are the UI views of our application and a brief decription of them
 
 Homepage of the app.
 
-![Homepage](/images/projects/Epicer/Epicer_main_page.png "Homepage")
+![Homepage](/images/projects/Epicer/Epicer_main_page.png "Homepage") {height=700px}
 
 ### Add ingredients
 
