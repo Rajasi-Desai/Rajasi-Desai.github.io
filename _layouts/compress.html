@@ -7,10 +7,15 @@
 ---
 <!-- TODO - DELETE start  -->
 <!-- this redriects to the temporary page -->
-{% unless page.url == '/' or page.url == '/about/' or page.url == '/resume/' or page.url == '/markdown/' or page.url == '/temporary/' or page.url == '/projects/' %}
+<!-- {% unless page.url == '/' or page.url == '/about/' or page.url == '/resume/' or page.url == '/markdown/' or page.url == '/temporary/' or page.url == '/projects/' %}
 <meta http-equiv="refresh" content="0; url={{ '/temporary/' | relative_url }}">
 <script>window.location.replace('{{ '/temporary/' | relative_url }}');</script>
-{% endunless %}
+{% endunless %} -->
+
+{% if page.url == '/employment/' or page.url == '/contact/' or page.url == '/temporary/'%}
+<meta http-equiv="refresh" content="0; url={{ '/temporary/' | relative_url }}">
+<script>window.location.replace('{{ '/temporary/' | relative_url }}');</script>
+{% endif %}
 
 <!-- TODO - DELETE end  -->
 
