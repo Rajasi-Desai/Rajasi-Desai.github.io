@@ -1,6 +1,6 @@
 ---
 title: "PaperPal"
-excerpt: "PaperPal is a research paper recommendation tool which recommends you research papers based on saved papers.<br/><img src='/images/projects/PaperPal/PaperPal.png'>"
+excerpt: "PaperPal is a research paper recommendation tool which recommends you research papers based on saved papers.<br/><img src='/images/projects/PaperPal/PaperPal.png' width='300'>"
 collection: projects
 ---
 
