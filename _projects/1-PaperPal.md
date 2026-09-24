@@ -1,10 +1,12 @@
 ---
 title: "PaperPal"
-excerpt: "PaperPal is a research paper recommendation tool which recommends you research papers based on saved papers.<br/><img src='/images/projects/PaperPal.png'>"
+excerpt: "PaperPal is a research paper recommendation tool which recommends you research papers based on saved papers.<br/><img src='/images/projects/PaperPal/PaperPal.png'>"
 collection: projects
 ---
 
-<img src='/images/projects/PaperPal.png'>
+<!-- TODO Challenges, scope contribution, pictures/screenshots-->
+
+![PaperPal Logo](/images/projects/PaperPal/PaperPal.png)
 
 ## App info
 
@@ -27,7 +29,3 @@ The backend was built in Python. We used BERT and OpenAI embeddings to generate 
 ## Youtube Video
 
 This project was made as part of CS 625: Advance HCI. You can checkout the YouTube video with a demo here: [Youtube Link](https://www.youtube.com/watch?v=o-lv_oNOpko)
-
-## Info
-
-This repo is a fork of the original repo created for the project from one of the other contributors. The team included Rajasi Desai, Suraj Pathak, and Rishab Maheshwari. 
