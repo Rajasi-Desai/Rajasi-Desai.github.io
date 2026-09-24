@@ -72,4 +72,38 @@ We learnt a lot about web development using JavaScript and CSS styling
 
 ## Youtube Video
 
-This project was made as part of __. You can checkout the YouTube video with a demo here: [Youtube Link](https://youtu.be/t-qzDuUY4SI)
+This project was made as part of Hack(H)er 2021. You can checkout the YouTube video with a demo here: [Youtube Link](https://youtu.be/t-qzDuUY4SI)
+
+## User Interface: 
+
+The following are the UI views of our application and a brief decription of them:
+
+### Page to login
+Used to log into our website.
+
+![Login](/images/projects/Inzpier/Inzspire_login_page.png "Page to login")
+
+### Sign up page
+Used to register a new user/account if it does not exist. 
+
+![Sign up](/images/projects/Inzpier/Inzspire_sign_up.png "Sign up page")
+
+### Homepage
+Gives information about the Inzspire and an overview of the website
+
+![Homepage](/images/projects/Inzpier/Inzpire_homepage.png "Homepage")
+
+### Profile page
+Page to customize user profile
+
+![Profile page](/images/projects/Inzpier/Inzpire_profile.png "Profile page")
+
+### Post a challenge
+Used to post a new challenge
+
+![Challenge page](/images/projects/Inzpier/Inzpire_post_challenge.png "Challenge page")
+
+### Projects page
+Page to view all the visible public projects.
+
+![Projects page](/images/projects/Inzpier/Inzpire_projects.png "Projects page")
