@@ -13,7 +13,7 @@ main:
 
   #- title: "Talks"
   #  url: /talks/
-  
+
   - title: "Employment"
     url: /employment/
 
@@ -22,10 +22,10 @@ main:
 
   - title: "Resume"
     url: /resume/
-  
+
   - title: "About me"
-    url: /  
-  
+    url: /
+
   - title: "Contact"
     url: /contact/
 
