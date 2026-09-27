@@ -29,10 +29,16 @@
 
   footer {
     @include clearfix;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1em;
     margin-left: auto;
     margin-right: auto;
     margin-top: 1em;
+    width: 100%;
     max-width: 100%;
+    box-sizing: border-box;
     padding: 0 1em 1em;
 
     @include breakpoint($x-large) {
@@ -63,11 +69,17 @@
     position: relative;
     bottom: auto;
   }
+
+  .page__footer footer {
+    flex-wrap: wrap;
+  }
 }
 
 .page__footer-copyright {
   font-family: $global-font-family;
   font-size: $type-size-7;
+  margin-left: auto;
+  text-align: right;
 }
 
 .page__footer-follow {
