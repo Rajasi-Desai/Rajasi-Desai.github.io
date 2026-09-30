@@ -1,5 +1,5 @@
 ---
-title: "University of Massachusetts Amherst"
+title: "University of Massachusetts Amherst (Amherst, MA, USA)"
 excerpt: "<img src='/images/employment/Umass_logo.png' width='300'>"
 collection: employment
 ---

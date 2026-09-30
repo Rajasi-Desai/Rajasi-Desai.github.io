@@ -23,11 +23,11 @@ layout: default
     {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">{% endif %}
     {% if page.modified %}<meta itemprop="dateModified" content="{{ page.modified | date: "%B %d, %Y" }}">{% endif %}
 
-    <div>
-      {% if page.collection == 'projects' %}
+    {% if page.collection == 'projects' %}
+      <div class="project-return-top">
         <p><a href="{{ '/projects/' | relative_url }}">Back to Projects</a></p>
-      {% endif %}
-    </div>
+      </div>
+    {% endif %}
 
     <div class="page__inner-wrap">
       {% unless page.header.overlay_color or page.header.overlay_image %}
@@ -92,12 +92,11 @@ layout: default
       <!-- {% if page.share %}{% include social-share.html %}{% endif %} -->
 
       {% include post_pagination.html %}
-    </div>
 
-    <!-- TODO - Space out between the pagniation and the link-->
-    <div>
       {% if page.collection == 'projects' %}
-        <p><a href="{{ '/projects/' | relative_url }}">Back to Projects</a></p>
+        <div class="project-return">
+          <p><a href="{{ '/projects/' | relative_url }}">Back to Projects</a></p>
+        </div>
       {% endif %}
     </div>
 

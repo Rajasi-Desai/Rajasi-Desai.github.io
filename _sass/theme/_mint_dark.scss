@@ -18,7 +18,7 @@ $border-light              : #3d5950;
 /* Color codes used for the site */
 $danger-color               : #e74c3c;
 $info-color                 : #4effd9;
-$notice-color               : #30e3ca;
+$notice-color               : #149180;
 $success-color              : #2ecc71;
 $warning-color              : #f39c12;
 
@@ -51,6 +51,34 @@ html[data-theme="dark"] {
   --global-text-color-light           : #{$text-muted};
   --global-thead-color                : #{$background-lighter};
 
+}
+
+html[data-theme="dark"] .page__content {
+  .notice,
+  .notice--primary {
+    background-color: mix($background, $notice-color, 85%);
+    color: $text;
+  }
+
+  .notice--info {
+    background-color: mix($background, $info-color, 85%);
+    color: $text;
+  }
+
+  .notice--warning {
+    background-color: mix($background, $warning-color, 85%);
+    color: $text;
+  }
+
+  .notice--success {
+    background-color: mix($background, $success-color, 85%);
+    color: $text;
+  }
+
+  .notice--danger {
+    background-color: mix($background, $danger-color, 85%);
+    color: $text;
+  }
 }
 
 /* Footer styling for dark mode */
