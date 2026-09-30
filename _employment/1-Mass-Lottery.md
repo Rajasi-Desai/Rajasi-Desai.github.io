@@ -1,5 +1,5 @@
 ---
-title: "Mass Lottery employment"
+title: "Massachusetts State Lottery Commission"
 # excerpt: "<a href=''><img src='/images/employment/Lottery_logo.png'></a>"
 excerpt: "<img src='/images/employment/Lottery_logo.png' width='300'>"
 collection: employment
