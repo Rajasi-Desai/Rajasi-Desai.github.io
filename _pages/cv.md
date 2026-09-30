@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download Resume](https://drive.google.com/file/d/1YbeLjPbiKJdK98ENu2LIOdCO6GJDX1WL/view?usp=sharing)
+
 Work experience
 ===
 
