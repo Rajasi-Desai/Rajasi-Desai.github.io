@@ -1,56 +1,43 @@
 ---
 title: "TODO App"
-excerpt: "TODO app.<br/><img src='/images/projects/TODO-app/Website-sample-page.png' width='300'>"
+excerpt: "A simple todo task manager built with React 19.<br/><img src='/images/projects/TODO-app/Website-sample-page.png' width='300'>"
 collection: projects
 ---
 
-<!-- TODO Challenges, scope contribution, pictures/screenshots-->
+## App Info
 
-![Website sample page](/images/projects/TODO-app/Website-sample-page.png)
+A simple todo task manager built with React 19. Add tasks with numeric priorities, keep track of completion, and organize your list. Tasks are saved in your browser so they remain available when you return.
+
+You can find the deployment of this code [here](https://rajasi-desai.github.io/Todo-App)
+
+## Features
+
+- Add tasks with a priority number.
+- Edit task text and priority.
+- Mark tasks as complete or incomplete.
+- Filter the list to show only incomplete tasks.
+- Sort tasks by priority, from lowest to highest.
+- Delete tasks you no longer need.
+- Persist tasks in browser `localStorage`.
+
+## Built with
+
+- React 19
+- Vite
+- Lucide React icons
+
+## Data storage
+
+Tasks are stored in the browser's local storage under the `tasks` key. They are local to the browser and device where you use the app; no account or server is required.
 
 
+The deployment configuration targets GitHub Pages at [rajasi-desai.github.io/Todo-App](https://rajasi-desai.github.io/Todo-App).
 
-## App info
+## Using the App
 
+![TODO app showing the task form, priority field, filters, and example tasks](/images/projects/TODO-app/Website-sample-page.png)
 
-### Why is this a problem
-
-
-## Frontend
-
-
-## Backend
-
-
-## Youtube Video
-
-This project was made as part of CS 625: Advance HCI. You can checkout the YouTube video with a demo here: [Youtube Link](https://www.youtube.com/watch?v=o-lv_oNOpko)
-
-## User Interface: 
-
-The following are the UI views of our application and a brief decription of them:
-
-### Chrome Extension
-Chrome Extension for ease of access.
-
-![Chrome Extension](/images/projects/PaperPal/PaperPal_chrome_ext.png "Chrome Extension")
-
-### Add paper
-Used to add papers directly to the app. 
-
-![Add paper](/images/projects/PaperPal/PaperPal_add_paper.png "Add paper in the chrome extension")
-
-### Remove paper
-Detailed information of the paper in the chrome extension and deleting paper
-
-![Detailed info and Trash](/images/projects/PaperPal/PaperPal_details_trash.png "Detailed info and Trash")
-
-### Website
-Cleaner display of the papers and more information
-
-![Website](/images/projects/PaperPal/PaperPal_website.png "Website")
-
-### Generate Recommendations 
-Generate recommedations based on existing papers in the folder
-
-![Generate recommendations](/images/projects/PaperPal/PaperPal_generate_rec.png "Generate recommendations")
+1. **Add a task:** Enter a task, choose its priority number, then select the **+** button.
+2. **Manage a task:** Select its checkbox to mark it complete. Use the pencil button to edit it, or the trash button to delete it.
+3. **Organize your list:** Select **Show only incomplete** to hide completed tasks. Select the sort button to order tasks by priority, ascending order.
+4. **Come back later:** Your tasks are saved automatically in this browser.

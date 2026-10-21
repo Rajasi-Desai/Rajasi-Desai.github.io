@@ -2,6 +2,7 @@
 title: "Shows Tracker"
 excerpt: "Shows tracker that keeps tracks of all the shows I have watched and review.<br/><img src='/images/projects/Shows-Tracker/Shows-Tracker_popularTV.png' width='500'>"
 collection: projects
+published: false
 ---
 
 <!-- TODO Challenges, scope contribution, pictures/screenshots-->

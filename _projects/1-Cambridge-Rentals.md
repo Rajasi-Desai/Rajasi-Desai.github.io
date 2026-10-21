@@ -1,56 +1,34 @@
 ---
 title: "Cambridge Rentals"
-excerpt: "Project showing a functional mock rental website.<br/><img src='/images/projects/Cambridge-Rentals/Website-page.png' width='300'>"
+excerpt: "Cambridge Rentals is a React property-rental listing page. It is a project showing a functional mock rental website.<br/><img src='/images/projects/Cambridge-Rentals/Website-page.png' width='300'>"
 collection: projects
 ---
 
-<!-- TODO Challenges, scope contribution, pictures/screenshots-->
-
 ![Website page](/images/projects/Cambridge-Rentals/Website-page.png)
 
-Project showing a functional mock rental website showing properties listed.
+Cambridge Rentals is a React property-rental listing page. It displays a collection of homes, flats, and cottages with photos, property details, monthly rent, and availability information. The project was built as a React learning exercise.
 
-## App info
+You can find the deployment of this code [here](https://rajasi-desai.github.io/Cambridge-Rentals)
 
+## Features
 
-### Why is this a problem
+- Browse a grid of rental properties in Cambridge.
+- View each property's type, photo, bedroom and bathroom count, floor area, address, monthly rent, and availability date.
+- See unavailable listings visually marked as unavailable.
+- View the agency's open or closed status, based on weekday opening hours (Monday to Friday, 9:00–17:00).
+- Responsive page layout for smaller screens.
 
+Property listings are currently static sample data maintained in `src/data/properties.js`; this project does not connect to a backend or provide search and booking.
 
-## Frontend
+## Built with
 
+- React 19
+- Vite
+- `lucide-react` icons
+- ESLint
 
-## Backend
+## Link
 
+Here is the [link](https://rajasi-desai.github.io/Cambridge-Rentals). to the project to explore.
 
-## Youtube Video
-
-This project was made as part of CS 625: Advance HCI. You can checkout the YouTube video with a demo here: [Youtube Link](https://www.youtube.com/watch?v=o-lv_oNOpko)
-
-## User Interface: 
-
-The following are the UI views of our application and a brief decription of them:
-
-### Chrome Extension
-Chrome Extension for ease of access.
-
-![Chrome Extension](/images/projects/PaperPal/PaperPal_chrome_ext.png "Chrome Extension")
-
-### Add paper
-Used to add papers directly to the app. 
-
-![Add paper](/images/projects/PaperPal/PaperPal_add_paper.png "Add paper in the chrome extension")
-
-### Remove paper
-Detailed information of the paper in the chrome extension and deleting paper
-
-![Detailed info and Trash](/images/projects/PaperPal/PaperPal_details_trash.png "Detailed info and Trash")
-
-### Website
-Cleaner display of the papers and more information
-
-![Website](/images/projects/PaperPal/PaperPal_website.png "Website")
-
-### Generate Recommendations 
-Generate recommedations based on existing papers in the folder
-
-![Generate recommendations](/images/projects/PaperPal/PaperPal_generate_rec.png "Generate recommendations")
+Note: It is just a mock up with no backend functionality attached.
