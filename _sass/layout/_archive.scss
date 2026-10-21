@@ -151,6 +151,38 @@
   }
 }
 
+.projects-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 2em;
+
+  @include breakpoint($small) {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  @include breakpoint($large) {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .grid__item {
+    float: none;
+    clear: none;
+    width: auto;
+    margin: 0;
+    padding: 0;
+  }
+
+  .archive__item-excerpt {
+    display: block;
+    font-size: $type-size-6;
+
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+  }
+}
+
 
 /*
    Features
