@@ -1,6 +1,6 @@
 ---
 title: "Epicer"
-excerpt: "Hungry? Want to eat home-cooked meals to eat healthier? Have various kinds of groceries in the fridge but don't know what to make? Wait no more! Use épicer to get some epic(er) recipes with whatever is available to you!<br/><img src='/images/projects/Epicer/Epicer_Logo.png' width='300'>"
+excerpt: "Use épicer to get some epic(er) recipes with whatever is available to you!<br/><img src='/images/projects/Epicer/Epicer_Logo.png' width='300'>"
 collection: projects
 ---
 

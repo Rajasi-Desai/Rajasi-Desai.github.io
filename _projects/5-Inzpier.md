@@ -1,6 +1,6 @@
 ---
 title: "Inzpire"
-excerpt: "Running out of hackathon ideas? Wanna build a startup but don't know where to start? Need some inspiration? Introducing Inzpire - all-in-one social platform to find inspiration and opportunities. Inspire. Investigate. Innovate. <br/><img src='/images/projects/Inzpier/Inzpire_logo.png' width='300'>"
+excerpt: "Introducing Inzpire - all-in-one social platform to find inspiration and opportunities.<br/><img src='/images/projects/Inzpier/Inzpire_logo.png' width='300'>"
 collection: projects
 ---
 
