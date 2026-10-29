@@ -8,7 +8,7 @@ collection: projects
 
 A simple todo task manager built with React 19. Add tasks with numeric priorities, keep track of completion, and organize your list. Tasks are saved in your browser so they remain available when you return.
 
-You can find the deployment of this code [here](https://rajasi-desai.github.io/Todo-App)
+You can find the deployment of this code <a href="https://rajasi-desai.github.io/Todo-App" target="_blank">here</a>
 
 ## Features
 

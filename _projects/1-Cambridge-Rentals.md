@@ -8,7 +8,7 @@ collection: projects
 
 Cambridge Rentals is a React property-rental listing page. It displays a collection of homes, flats, and cottages with photos, property details, monthly rent, and availability information. The project was built as a React learning exercise.
 
-You can find the deployment of this code [here](https://rajasi-desai.github.io/Cambridge-Rentals)
+You can find the deployment of this code <a href="https://rajasi-desai.github.io/Cambridge-Rentals" target="_blank">here</a>
 
 ## Features
 
