@@ -1,6 +1,7 @@
 ---
 title: "Inzpire"
-excerpt: "Introducing Inzpire - all-in-one social platform to find inspiration and opportunities.<br/><img src='/images/projects/Inzpier/Inzpire_logo.png' width='300'>"
+excerpt: "Introducing Inzpire - all-in-one social platform to find inspiration and opportunities."
+project_image: /images/projects/Inzpier/Inzpire_logo.png
 collection: projects
 ---
 

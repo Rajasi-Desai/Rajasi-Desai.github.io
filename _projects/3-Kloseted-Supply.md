@@ -1,6 +1,7 @@
 ---
 title: "Kloseted Supply"
-excerpt: "Kloseted Supply is an inventory tracker for the Student Care Supply Closets that is managed by the Dean of Students Office at UMass Amherst.<br/><img src='/images/projects/Kloseted-Supply/Homepage.png' width='500'>"
+excerpt: "Kloseted Supply is an inventory tracker for the Student Care Supply Closets that is managed by the Dean of Students Office at UMass Amherst."
+project_image: /images/projects/Kloseted-Supply/Homepage.png
 collection: projects
 ---
 

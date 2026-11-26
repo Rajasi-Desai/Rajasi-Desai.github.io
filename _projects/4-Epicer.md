@@ -1,6 +1,7 @@
 ---
 title: "Epicer"
-excerpt: "Use épicer to get some epic(er) recipes with whatever is available to you!<br/><img src='/images/projects/Epicer/Epicer_Logo.png' width='300'>"
+excerpt: "Use épicer to get some epic(er) recipes with whatever is available to you!"
+project_image: /images/projects/Epicer/Epicer_Logo.png
 collection: projects
 ---
 

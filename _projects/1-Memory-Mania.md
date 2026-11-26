@@ -1,6 +1,7 @@
 ---
 title: "Memory Mania Game"
-excerpt: "Memory Mania is a browser-based memory card game built with React.<br/><img src='/images/projects/Memory-Mania/card-flipped.png' width='300'>"
+excerpt: "Memory Mania is a browser-based memory card game built with React."
+project_image: /images/projects/Memory-Mania/card-flipped.png
 collection: projects
 ---
 

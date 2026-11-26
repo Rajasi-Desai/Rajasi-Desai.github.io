@@ -1,6 +1,7 @@
 ---
 title: "HAV.it"
-excerpt: "An app that can be used for community welfare.<br/><img src='/images/projects/HAVit/HAVit_logo.png' width='300'>"
+excerpt: "An app that can be used for community welfare."
+project_image: /images/projects/HAVit/HAVit_logo.png
 collection: projects
 ---
 
