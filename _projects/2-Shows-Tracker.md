@@ -1,6 +1,7 @@
 ---
 title: "Shows Tracker"
-excerpt: "Shows tracker that keeps tracks of all the shows I have watched and review.<br/><img src='/images/projects/Shows-Tracker/Shows-Tracker_popularTV.png' width='500'>"
+excerpt: "Shows tracker that keeps tracks of all the shows I have watched and review."
+project_image: /images/projects/Shows-Tracker/Shows-Tracker_popularTV.png
 collection: projects
 published: false
 ---

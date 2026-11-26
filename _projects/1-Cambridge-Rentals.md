@@ -1,6 +1,7 @@
 ---
 title: "Cambridge Rentals"
-excerpt: "Cambridge Rentals is a React property-rental listing page. It is a project showing a functional mock rental website.<br/><img src='/images/projects/Cambridge-Rentals/Website-page.png' width='300'>"
+excerpt: "Cambridge Rentals is a React property-rental listing page. It is a project showing a functional mock rental website."
+project_image: /images/projects/Cambridge-Rentals/Website-page.png
 collection: projects
 ---
 

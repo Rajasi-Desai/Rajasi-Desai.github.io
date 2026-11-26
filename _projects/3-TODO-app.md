@@ -1,6 +1,7 @@
 ---
 title: "TODO App"
-excerpt: "A simple todo task manager built with React 19.<br/><img src='/images/projects/TODO-app/Website-sample-page.png' width='300'>"
+excerpt: "A simple todo task manager built with React 19."
+project_image: /images/projects/TODO-app/Website-sample-page.png
 collection: projects
 ---
 
